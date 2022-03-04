@@ -1,6 +1,6 @@
-# Full Stack Web Development in the Cloud
+# Full Stack To-Do Web Application
 
-This repository contains the source code for the [Full Stack Web Development in the Cloud](https://youtu.be/OUzaUJ3gEug) course.
+This project is a part of Software Achitechture course that developed by following the [Full Stack Web Development in the Cloud tutorial](https://youtu.be/OUzaUJ3gEug)
 
 ## Architecture
 
